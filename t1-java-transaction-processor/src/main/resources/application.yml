@@ -1,0 +1,32 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: t1-transaction-processor
+
+logging:
+  level:
+    ROOT: INFO
+    #ru.t1.java.demo.kafka.ru.t1.java.demo.kafka.consumer.AccountConsumer: DEBUG
+    #ru.t1.java.demo.controller.ClientController: DEBUG
+
+t1-transaction-processor:
+  scan-path: .
+  kafka:
+    bootstrap:
+      server: ${KAFKA_SERVER:localhost:9092}
+    consumer:
+      group-id: t1-demo
+      transaction-accept-id: transactionAcceptId
+      max.poll.records: 3
+    producer:
+      enable: true
+    topic:
+      transaction_accept: t1_demo_transaction_accept
+      transaction_result: t1_demo_transaction_result
+    listener:
+      poll-timeout: 1000
+    transactions:
+      max-count: 3        # Maximum number of transactions (N)
+      time-window: 10000    # Time period (T) in ms

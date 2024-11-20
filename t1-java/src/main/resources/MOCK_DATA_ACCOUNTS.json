@@ -1,0 +1,9002 @@
+[
+  {
+    "type": "DEBIT",
+    "balance": 100.09,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 217
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 200.07,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 159
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 70.56,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 323
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 15.17,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 530
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 696695262.25,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 350
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 768546013.49,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 385
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 747583385.53,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 714
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 373766249.74,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 24
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 495654558.91,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 790
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 426370326.25,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 751
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 196015591.27,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 455
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 63490665.19,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 690
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 975506155.59,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 491
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 543976032.84,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 466
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 637579574.56,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 270
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 948765534.11,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 670
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 901485782.03,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 171
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 426148781.88,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 271
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 402521401.36,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 49
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 96348023.89,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 920
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 721158004.72,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 537
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 960647231.6,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 894
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 237797110.11,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 848
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 812640832.28,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 214
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 996436302.47,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 50
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 151387352.72,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 167
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 837579152.96,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 200
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 21581076.17,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 916
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 441666284.12,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 701
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 633363524.09,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 36
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 564440052.76,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 530
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 107903780.94,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 79
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 456019898.99,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 312
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 200816097.02,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 813
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 128652368.18,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 833
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 516845399.87,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 911
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 140199423.39,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 236
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 425452066.39,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 411
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 344619104.47,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 739
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 403112323.72,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 425
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 742721920.7,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 236
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 727038080.21,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 635
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 264551092.62,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 22
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 31698662.87,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 638
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 798782489.88,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 103
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 885095776.05,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 320
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 490217950.56,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 885
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 567778360.9,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 660
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 804199001.53,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 751
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 647740827.41,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 364
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 139625755.54,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 801
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 585094090.18,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 72
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 664142907.92,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 987
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 742212846.47,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 296
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 420314909.41,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 398
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 711572344.85,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 903
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 446719874.52,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 892
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 822723275.15,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 500
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 66437233.08,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 548
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 393094248.56,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 347
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 997586353.38,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 352
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 357339893.8,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 892
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 662446591.51,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 160
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 329369050.02,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 181
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 557228635.61,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 881
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 446281403.75,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 261
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 149503901.75,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 228
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 852756611.75,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 107
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 442441948.06,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 121
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 741603874.93,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 224
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 116793876.56,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 387
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 500986500.34,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 24
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 97349546.19,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 313
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 534163136.43,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 944
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 31863592.58,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 822
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 797500732.75,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 671
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 266930053.06,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 950
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 979337012.7,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 804
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 478039138.67,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 403
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 548504477.68,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 399
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 216248219.37,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 167
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 130148739.29,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 171
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 949927920.93,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 287
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 56846718.48,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 128
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 197321343.02,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 807
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 126707765.44,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 917
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 552851869.18,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 387
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 208149991.15,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 537
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 531355625.59,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 455
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 184086543.16,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 822
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 719261899.1,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 191
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 34709199.46,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 658
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 190742267.56,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 354
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 224567944.9,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 740
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 281751862.34,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 940
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 370968131.63,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 559
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 764212161.63,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 883
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 718273534.75,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 399
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 120367982.35,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 165
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 474815735.79,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 487
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 704999019.87,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 659
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 47564133.26,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 861
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 507156228.22,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 853
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 493525027.67,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 722
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 8820698.76,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 222
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 187243526.32,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 254
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 437048274.02,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 465
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 150367622.28,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 874
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 84438621.66,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 519
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 145081888.58,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 11
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 278827974.65,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 367
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 389813324.78,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 33
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 526354937.12,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 625
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 556785860.57,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 702
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 12735841.59,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 947
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 479310438.47,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 775
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 955904084.96,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 1000
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 464898060.38,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 562
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 148370573.62,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 321
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 666782109.4,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 576
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 161518844.63,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 642
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 198834712.45,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 587
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 887526210.93,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 971
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 582671493.37,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 870
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 342741875.38,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 28
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 531026329.81,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 430
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 609906984.04,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 240
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 94422690.42,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 814
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 610338657.56,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 809
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 197995444.85,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 99
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 807324221.88,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 104
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 881290550.61,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 162
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 814737701.14,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 47
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 437247985.31,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 4
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 600839275.35,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 764
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 883501740.52,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 608
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 439429167.38,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 870
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 336537734.82,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 194
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 357919417.39,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 749
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 467907616.66,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 753
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 887076093.54,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 934
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 308859718.39,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 315
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 758678145.61,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 221
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 653912340.17,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 907
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 794425179.34,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 806
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 904874732.82,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 845
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 872164324.24,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 243
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 535854177.7,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 939
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 809365826.55,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 378
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 656628482.08,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 803
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 615253803.97,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 834
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 875836859.87,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 63
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 510113037.42,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 981
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 52975709.23,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 938
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 179241048.28,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 645
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 953857021.47,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 760
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 516457383.85,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 556
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 246448157.47,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 145
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 448513798.9,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 768
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 275344016.95,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 297
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 858245697.8,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 274
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 439528380.78,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 618
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 638404974.02,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 373
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 417907492.82,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 810
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 556118133.41,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 663
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 273700289.73,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 569
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 686583366.0,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 92
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 132020360.16,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 30
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 116657754.33,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 505
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 158400434.68,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 210
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 17161942.08,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 425
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 70025613.15,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 687
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 535656696.0,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 932
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 313107359.33,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 429
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 898017738.92,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 307
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 660324843.44,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 647
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 336663851.06,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 643
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 264427644.57,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 774
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 594242683.95,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 920
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 790175225.16,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 66
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 809398828.7,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 223
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 595930608.19,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 26
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 60860533.01,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 230
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 469060577.34,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 700
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 557912759.7,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 463
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 273178528.46,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 295
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 896820132.8,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 948
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 889986214.58,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 118
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 692541340.44,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 146
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 966710679.24,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 235
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 492205458.62,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 671
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 5176039.25,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 821
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 956147680.15,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 260
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 557755977.26,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 596
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 974903367.12,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 443
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 218683532.99,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 408
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 35265693.35,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 279
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 31704224.61,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 439
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 871146808.97,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 603
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 685275593.46,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 886
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 933679922.33,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 347
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 104198005.16,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 855
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 655985586.97,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 476
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 391950976.11,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 531
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 94898444.99,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 967
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 136272084.77,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 699
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 55453103.92,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 307
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 655155865.43,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 606
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 115914180.31,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 204
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 543970678.69,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 746
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 551579867.01,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 123
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 23316474.18,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 30
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 779226105.97,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 375
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 959038139.78,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 64
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 502800532.21,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 674
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 457642777.47,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 621
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 973341512.06,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 990
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 546000556.09,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 999
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 710673923.18,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 185
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 996638969.3,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 637
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 496487820.13,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 452
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 298504992.41,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 835
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 1882318.92,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 709
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 776983653.78,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 358
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 953538695.38,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 487
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 503288951.01,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 694
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 820514897.41,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 602
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 600078151.58,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 517
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 741837298.33,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 110
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 229878873.63,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 184
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 641739135.27,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 904
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 543036715.1,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 237
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 335937335.18,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 613
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 949876522.04,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 179
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 218828418.48,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 184
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 146683956.15,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 64
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 721309981.08,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 688
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 992038595.72,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 741
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 36323847.25,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 546
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 261329768.07,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 888
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 108712239.31,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 208
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 26819427.12,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 181
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 792448201.85,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 526
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 510191212.88,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 60
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 322398916.55,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 399
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 138018518.31,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 261
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 607112734.81,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 771
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 148564014.4,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 245
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 722607201.19,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 825
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 307550156.37,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 306
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 6282178.92,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 790
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 637838449.06,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 962
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 570119053.16,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 469
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 494982637.25,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 739
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 765317704.22,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 586
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 333978454.97,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 477
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 392712635.35,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 830
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 280683032.36,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 455
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 166784805.74,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 884
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 273990293.22,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 877
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 923993509.73,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 764
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 318854638.64,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 221
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 214584217.14,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 981
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 999803275.99,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 134
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 887181114.64,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 741
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 831701583.77,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 921
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 160138616.99,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 796
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 687979182.12,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 912
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 650886815.85,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 335
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 250658558.04,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 127
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 344263189.0,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 421
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 381621407.13,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 20
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 46843366.68,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 741
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 489637688.91,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 625
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 877546840.99,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 840
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 713380101.03,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 234
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 853975088.04,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 654
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 236802374.25,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 963
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 299572968.33,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 60
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 499067584.29,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 740
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 14909287.86,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 900
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 409129250.4,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 781
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 728607345.67,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 395
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 709840847.47,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 581
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 231999565.48,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 801
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 289537519.83,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 774
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 941741842.21,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 581
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 667393359.84,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 356
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 330924739.74,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 315
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 252063175.9,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 427
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 171748000.14,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 321
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 851120321.64,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 411
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 328198548.54,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 892
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 291272364.44,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 75
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 404836236.97,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 818
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 397523095.6,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 967
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 23523771.29,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 773
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 6844980.3,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 961
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 523777733.98,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 659
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 963234405.12,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 941
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 952653705.13,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 989
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 684002738.5,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 747
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 108854318.32,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 426
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 954193012.14,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 311
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 741886514.99,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 906
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 849021742.84,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 308
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 164192833.54,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 565
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 760996365.56,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 392
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 537387833.68,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 275
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 431589338.21,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 368
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 95564820.84,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 978
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 887563511.83,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 419
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 657455333.38,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 838
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 526370515.42,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 891
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 96351503.33,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 426
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 770310743.37,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 560
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 949875444.81,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 921
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 164108249.84,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 471
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 971279516.75,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 293
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 182767343.52,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 15
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 390227525.74,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 939
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 738072934.31,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 374
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 975995308.48,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 189
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 387512446.83,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 925
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 491102442.47,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 327
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 903667423.52,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 219
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 67157653.5,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 451
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 390960924.45,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 252
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 51708508.09,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 477
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 646546195.03,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 77
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 355829899.0,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 202
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 314378203.85,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 804
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 422775939.34,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 184
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 588671382.51,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 760
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 898947796.76,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 853
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 391594574.08,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 633
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 353710863.5,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 331
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 440193690.1,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 472
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 654195598.34,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 755
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 274542480.15,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 324
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 110525532.02,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 834
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 370061879.76,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 183
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 862957906.83,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 816
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 657325990.61,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 571
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 302145396.06,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 385
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 123334543.3,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 102
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 420842385.65,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 635
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 355006424.14,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 7
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 785886528.95,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 222
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 552441496.14,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 75
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 289286370.28,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 850
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 52045764.88,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 948
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 173658083.11,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 115
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 28550026.79,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 823
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 93475184.05,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 621
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 410954358.26,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 909
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 264732725.34,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 332
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 921090634.78,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 175
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 204419851.24,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 860
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 69446338.09,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 406
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 775534774.38,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 348
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 675087883.92,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 713
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 742514344.79,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 74
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 907954356.51,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 802
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 369568015.56,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 731
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 297124146.07,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 140
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 392229748.77,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 193
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 988857930.84,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 190
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 605791747.41,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 355
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 383373438.35,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 235
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 428503606.15,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 216
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 572553304.4,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 669
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 742499713.35,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 32
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 857129903.64,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 345
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 440714041.15,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 433
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 5275374.5,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 616
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 637398863.53,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 364
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 833882319.98,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 20
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 510646844.7,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 440
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 841013470.98,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 920
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 51894149.5,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 143
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 91501409.98,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 303
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 40169424.97,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 235
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 815338934.87,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 556
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 427739449.9,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 519
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 630028243.3,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 612
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 638051123.84,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 24
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 23928781.32,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 219
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 212662200.47,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 220
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 680860406.76,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 987
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 581242606.62,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 152
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 151810647.82,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 273
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 6316933.34,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 767
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 143650573.52,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 291
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 388497972.51,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 818
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 856905061.65,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 931
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 841675879.51,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 734
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 480874966.45,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 564
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 270423294.75,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 694
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 530812474.71,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 353
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 237159250.4,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 189
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 34944606.08,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 155
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 330143725.53,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 244
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 478673636.46,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 726
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 842412208.93,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 779
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 230329485.78,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 414
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 902481987.01,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 133
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 632650579.94,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 839
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 430516745.22,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 951
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 883061987.82,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 794
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 112113492.5,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 374
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 305652245.23,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 228
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 134560108.51,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 265
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 942001411.46,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 434
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 488195073.61,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 994
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 868494073.46,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 301
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 344589627.5,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 867
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 328656921.6,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 325
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 582187762.2,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 611
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 864812946.52,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 417
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 204833689.6,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 439
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 180637455.8,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 887
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 737545479.03,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 567
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 293474388.11,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 951
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 415966035.95,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 40
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 757100516.67,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 589
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 799551192.99,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 38
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 64245539.28,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 3
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 984791995.5,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 36
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 16049990.55,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 451
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 677962110.52,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 17
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 739709634.73,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 672
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 448605099.71,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 446
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 600741141.71,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 543
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 950683782.6,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 309
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 357577546.28,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 687
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 339024348.92,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 69
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 229985945.41,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 18
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 593447867.1,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 460
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 747380678.83,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 981
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 335031649.71,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 98
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 769835572.03,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 447
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 960054698.65,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 106
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 199072290.34,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 69
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 707289050.19,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 981
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 217872477.73,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 700
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 977269549.41,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 841
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 847622237.06,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 296
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 349672841.02,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 670
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 945681383.92,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 638
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 737895649.62,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 178
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 999929488.25,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 545
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 731021800.72,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 995
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 156419805.16,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 646
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 707384536.21,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 591
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 766021850.41,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 857
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 813576738.32,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 780
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 835031866.06,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 216
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 826658110.98,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 11
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 184219743.81,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 665
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 564985399.63,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 763
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 576020788.0,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 328
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 617036689.7,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 165
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 123913007.85,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 947
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 322781745.23,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 274
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 716098775.3,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 182
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 489658534.47,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 603
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 685389073.39,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 631
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 892574644.82,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 684
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 257849887.66,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 471
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 27924201.27,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 239
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 706842263.18,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 557
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 911109465.8,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 860
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 806493548.31,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 754
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 773999967.5,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 496
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 122436552.67,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 11
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 766585311.32,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 767
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 38893406.07,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 743
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 956515443.19,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 381
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 470657043.36,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 941
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 205591517.55,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 418
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 423224507.59,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 771
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 727645959.55,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 658
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 37982974.57,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 964
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 88449390.27,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 694
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 374254128.22,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 380
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 673222192.47,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 380
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 664806384.35,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 484
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 288937247.58,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 314
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 665174428.25,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 669
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 101546017.01,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 109
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 196640362.9,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 295
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 796789749.41,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 320
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 763890656.76,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 356
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 534173223.91,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 843
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 715888555.54,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 936
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 111625932.96,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 526
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 131400666.7,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 172
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 1125829.61,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 798
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 130333879.22,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 109
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 158099356.83,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 849
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 967172107.96,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 498
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 587399331.27,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 456
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 57123230.41,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 152
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 25303888.17,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 475
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 338907862.16,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 448
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 362992398.42,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 244
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 955313041.1,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 80
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 781546303.68,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 273
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 303705595.55,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 537
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 418466908.14,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 806
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 127788639.23,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 813
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 424030489.07,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 38
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 260742436.74,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 399
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 342009280.36,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 499
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 142890902.25,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 545
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 849455020.2,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 485
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 412692122.68,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 823
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 791319763.66,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 679
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 733361397.53,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 655
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 330748603.73,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 699
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 928099754.72,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 949
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 281066584.33,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 90
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 792799085.62,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 375
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 218697629.28,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 909
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 741416816.14,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 436
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 990359797.12,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 189
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 957960899.84,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 89
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 934964236.91,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 984
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 356605739.3,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 205
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 482732743.53,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 417
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 270035299.12,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 549
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 816535276.51,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 500
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 326741358.77,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 925
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 440437688.98,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 664
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 105614550.12,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 627
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 821315389.97,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 999
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 987974030.49,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 509
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 481620665.08,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 570
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 345824667.36,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 228
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 170094358.07,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 963
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 79488424.54,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 766
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 326353538.68,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 498
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 520039386.94,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 127
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 774114395.4,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 884
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 689715675.69,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 205
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 758311779.23,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 917
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 20039919.86,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 455
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 58065943.17,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 259
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 7030933.5,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 708
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 395721042.1,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 699
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 85239114.05,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 755
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 225821989.61,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 160
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 71535132.76,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 83
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 336487389.3,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 617
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 717925936.21,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 9
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 864154667.45,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 534
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 25975096.37,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 936
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 878234286.11,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 49
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 218244977.4,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 418
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 394963367.14,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 999
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 704110661.03,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 699
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 494289983.95,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 156
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 449336771.81,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 584
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 950040708.96,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 309
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 489061692.59,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 835
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 154965010.86,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 791
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 534392181.68,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 815
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 792050627.94,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 195
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 864988734.62,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 463
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 728780366.62,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 342
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 233564119.09,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 863
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 588962288.85,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 149
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 880357992.97,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 641
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 988209169.56,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 988
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 65887772.91,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 116
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 4213829.71,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 899
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 446722288.54,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 205
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 605583284.6,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 712
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 489793683.08,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 906
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 616172754.06,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 264
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 454848049.91,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 422
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 623541347.69,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 347
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 120377911.39,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 144
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 615533594.35,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 381
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 80361160.62,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 48
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 889048913.33,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 141
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 40981604.13,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 673
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 658748901.67,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 408
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 242436451.1,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 876
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 261836338.85,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 905
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 624710707.6,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 551
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 675209431.2,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 550
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 373967744.2,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 144
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 388382058.92,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 225
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 757475004.03,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 529
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 242196965.91,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 649
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 663751580.38,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 524
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 293205155.42,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 706
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 280457341.21,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 954
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 727662517.78,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 922
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 49619796.37,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 622
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 25492373.73,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 347
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 365799538.69,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 78
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 311683207.05,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 30
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 234502174.7,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 231
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 35131851.29,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 743
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 509806322.34,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 723
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 534097506.15,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 13
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 743941838.98,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 878
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 948694347.15,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 521
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 985108903.74,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 80
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 624074055.3,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 126
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 799453309.84,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 759
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 402079014.18,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 560
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 375896028.71,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 777
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 694901316.54,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 7
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 769247497.57,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 70
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 142778690.33,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 534
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 229161883.42,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 794
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 789303635.34,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 202
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 849975255.5,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 32
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 774138388.09,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 243
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 133642736.31,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 989
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 15665703.88,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 556
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 306623409.9,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 226
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 170366544.09,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 307
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 358319818.86,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 711
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 17737001.06,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 549
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 324992040.39,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 242
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 599560556.03,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 835
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 588621395.05,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 770
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 320780554.96,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 682
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 570103305.85,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 779
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 512853861.82,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 414
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 724305037.51,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 995
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 222238682.15,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 323
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 961918478.8,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 102
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 620412798.5,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 299
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 222994162.36,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 56
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 430465754.18,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 173
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 663688325.28,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 854
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 101630271.02,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 63
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 676396385.92,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 157
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 782234530.4,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 299
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 41676995.45,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 797
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 27288019.98,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 25
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 757089555.91,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 743
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 266865345.39,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 153
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 19078183.55,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 779
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 900576118.45,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 82
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 159953965.84,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 547
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 226922377.27,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 714
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 967785786.74,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 863
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 448153460.19,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 307
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 530015623.39,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 251
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 773662012.0,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 931
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 609400926.1,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 411
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 627031296.42,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 741
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 64913748.23,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 146
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 200281705.57,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 214
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 919425420.26,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 569
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 106065410.8,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 876
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 219805767.35,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 613
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 435226149.92,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 75
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 374658408.42,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 325
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 664559191.72,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 182
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 192953762.95,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 628
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 680546332.02,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 582
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 812382055.21,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 774
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 362813281.97,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 587
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 751389336.15,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 30
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 670733486.5,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 78
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 770208399.58,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 589
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 492905759.01,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 954
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 477509597.36,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 263
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 978266552.91,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 24
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 64891504.67,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 999
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 778862407.0,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 182
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 315017702.74,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 678
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 19997657.13,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 845
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 679902013.21,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 615
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 731868088.91,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 764
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 983994988.5,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 232
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 548987242.94,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 313
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 757901859.25,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 579
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 697366538.01,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 636
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 271793190.46,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 611
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 233571208.69,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 871
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 888335066.12,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 356
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 55531454.92,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 928
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 907655721.7,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 289
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 757429108.87,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 668
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 98046420.7,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 621
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 150428886.99,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 596
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 348560114.08,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 842
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 120827613.77,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 910
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 596681522.95,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 557
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 554885429.15,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 673
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 944929835.46,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 588
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 229114462.14,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 36
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 810427855.3,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 200
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 54420250.67,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 221
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 769578461.86,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 825
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 749754673.4,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 429
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 276598264.57,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 310
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 771649982.58,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 636
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 221670413.28,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 846
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 749062034.43,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 494
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 516050501.76,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 896
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 366005066.62,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 418
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 647743015.29,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 109
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 634639305.3,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 495
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 441615811.12,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 144
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 616871434.69,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 62
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 827340212.76,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 96
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 529621737.9,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 723
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 617328024.65,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 893
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 670624813.2,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 948
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 647272943.02,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 3
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 964569917.54,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 977
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 972528866.6,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 146
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 933175932.69,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 960
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 334640325.78,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 599
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 569214400.67,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 177
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 924265070.56,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 597
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 774460184.43,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 579
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 975767754.96,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 737
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 67489282.05,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 717
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 4442470.07,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 36
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 349989407.25,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 832
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 510698362.76,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 961
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 311493470.35,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 143
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 480564234.53,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 771
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 126990049.95,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 321
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 897296183.83,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 982
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 845765358.52,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 412
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 100520398.02,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 843
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 859698374.33,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 768
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 702097270.33,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 752
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 278275574.56,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 433
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 431336716.93,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 156
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 989407154.66,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 509
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 923820380.57,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 50
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 727370417.49,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 382
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 234786013.96,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 186
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 754609522.21,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 328
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 923621740.59,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 351
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 493468131.2,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 524
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 324493958.77,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 509
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 24305625.35,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 308
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 84761599.18,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 235
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 991285012.41,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 222
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 5437207.09,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 88
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 684051281.93,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 909
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 576916148.85,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 917
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 530200396.61,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 555
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 220080023.0,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 859
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 739519618.06,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 166
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 498544225.63,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 686
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 633166918.8,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 393
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 239544551.8,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 398
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 374018932.63,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 266
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 423793664.17,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 806
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 511636813.81,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 586
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 651620155.95,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 767
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 619350700.86,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 154
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 251890738.57,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 129
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 402789561.76,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 31
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 684463052.02,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 776
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 401320.38,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 793
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 342974339.68,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 397
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 208290355.83,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 891
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 63590359.34,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 873
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 261847605.36,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 244
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 913547797.13,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 413
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 719735093.28,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 81
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 345973021.57,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 743
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 963778179.44,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 662
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 739324151.66,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 106
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 394990703.31,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 437
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 575430264.18,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 156
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 657058722.63,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 756
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 834799837.14,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 843
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 188422879.26,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 852
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 511865422.22,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 719
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 157939398.12,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 779
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 418903957.99,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 313
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 935324016.38,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 147
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 345830539.54,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 555
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 862592295.05,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 875
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 203269770.02,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 385
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 328418746.21,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 932
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 41399222.87,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 867
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 694690680.92,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 477
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 490734589.9,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 231
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 446801579.72,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 400
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 82314957.28,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 256
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 601358136.63,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 287
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 467380697.63,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 302
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 88346434.15,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 674
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 174714591.67,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 595
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 76008005.03,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 432
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 220581871.35,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 6
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 86103874.26,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 329
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 721281684.14,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 82
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 197347415.67,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 30
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 772376912.02,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 383
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 717472774.85,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 553
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 184607239.07,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 358
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 80751531.47,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 786
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 845028466.6,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 234
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 707895568.85,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 667
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 327198463.97,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 635
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 228336303.54,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 981
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 56008895.97,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 561
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 679373729.99,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 796
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 149958947.73,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 871
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 157313571.62,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 745
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 477066471.58,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 972
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 568570653.29,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 734
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 643395210.28,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 756
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 389972994.84,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 524
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 492123970.0,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 898
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 70671730.79,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 162
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 795606372.31,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 571
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 488242048.97,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 72
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 195237223.07,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 989
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 104860235.49,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 469
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 121065387.01,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 710
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 591258069.36,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 805
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 967893740.11,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 943
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 611270058.9,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 641
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 290881576.69,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 821
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 858117399.39,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 79
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 123888770.43,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 798
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 87825171.97,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 772
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 238110840.47,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 860
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 357415873.2,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 971
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 403447148.51,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 668
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 421762443.8,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 676
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 977262102.7,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 110
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 473717666.38,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 572
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 93080043.35,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 921
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 490363100.86,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 494
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 657860828.65,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 461
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 407056647.01,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 308
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 912900255.41,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 491
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 464770067.57,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 579
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 113887548.92,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 352
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 871808613.14,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 511
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 533156811.2,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 498
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 510267127.82,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 660
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 333878642.87,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 354
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 478417643.53,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 806
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 192527904.08,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 308
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 548317692.29,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 123
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 416407352.19,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 263
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 956221133.38,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 210
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 400903931.07,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 438
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 710348448.14,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 205
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 218752556.36,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 702
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 550523965.02,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 635
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 681590462.92,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 319
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 47696857.22,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 495
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 127975108.14,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 110
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 14713593.16,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 879
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 129268616.87,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 775
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 703178284.38,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 765
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 5022526.88,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 796
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 760244802.39,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 373
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 233912143.52,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 772
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 544732570.01,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 568
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 843001765.4,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 444
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 237342509.13,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 822
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 978087230.0,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 954
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 473973770.88,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 578
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 806382055.29,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 482
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 977436974.12,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 149
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 205885269.77,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 834
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 402569842.19,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 14
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 821745986.84,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 977
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 321846324.63,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 26
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 211929448.02,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 605
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 414029527.57,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 90
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 870154529.17,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 97
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 928565014.62,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 358
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 872327951.0,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 753
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 530252302.27,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 639
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 330095649.68,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 735
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 260928808.51,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 643
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 990165899.03,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 358
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 818339659.58,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 753
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 11275393.38,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 533
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 17582469.37,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 335
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 389937449.39,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 178
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 728892910.67,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 936
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 445320105.35,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 864
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 853302494.35,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 739
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 453166739.47,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 480
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 536217275.98,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 283
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 718901327.84,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 99
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 38397337.52,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 310
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 447809364.47,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 898
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 907926602.09,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 888
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 943058621.23,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 896
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 341728425.64,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 583
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 757554306.37,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 647
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 916819340.12,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 834
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 421687082.89,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 944
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 593662239.0,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 634
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 367888730.99,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 659
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 284857219.47,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 125
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 998972607.83,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 960
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 951332229.93,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 968
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 347574466.68,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 7
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 521070319.22,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 831
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 862451265.69,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 88
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 938998176.52,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 437
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 732750758.6,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 715
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 213388392.84,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 945
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 157108180.18,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 829
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 564941567.08,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 639
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 164289847.79,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 85
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 702904177.71,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 99
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 232527945.47,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 812
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 920691225.72,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 667
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 68843619.01,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 142
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 896341740.42,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 63
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 389886327.84,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 945
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 726160149.73,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 551
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 863867294.36,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 897
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 105096036.49,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 160
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 380372285.92,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 262
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 627426489.85,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 740
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 522691556.21,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 338
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 619857265.17,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 51
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 286572809.12,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 694
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 118063904.34,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 730
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 805273883.89,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 351
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 44587788.01,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 812
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 452658819.8,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 651
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 363392045.81,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 469
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 541964127.52,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 458
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 991429346.79,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 34
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 243151093.64,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 978
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 940750256.19,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 723
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 623534996.26,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 615
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 957435424.31,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 574
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 460294223.0,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 477
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 160579554.55,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 453
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 692465611.42,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 819
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 841919217.71,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 797
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 202882441.21,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 59
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 765696524.16,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 718
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 903510192.99,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 335
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 900956508.77,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 82
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 472357323.7,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 41
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 897484637.53,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 927
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 899499343.53,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 991
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 282900857.33,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 827
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 790855179.19,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 36
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 56594461.02,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 830
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 712636736.08,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 434
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 660866815.84,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 161
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 101250237.74,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 556
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 245277724.1,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 458
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 537573207.56,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 102
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 754361686.53,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 412
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 801605153.63,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 422
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 590611149.26,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 566
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 525875337.37,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 867
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 73804071.91,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 549
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 340662352.09,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 574
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 569410736.04,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 216
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 674713312.08,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 580
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 705604795.76,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 793
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 727942107.68,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 737
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 67284688.81,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 613
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 512299072.22,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 53
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 566057176.74,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 417
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 217651350.07,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 573
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 847995174.09,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 789
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 625389183.73,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 229
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 384937295.86,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 796
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 644354264.61,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 363
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 499439234.94,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 504
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 353709524.04,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 662
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 431258606.38,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 950
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 747213539.02,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 465
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 213166492.81,
+    "status": "ARRESTED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 90
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 653122767.04,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 134
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 858312548.7,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 484
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 158876320.3,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 640
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 817244725.28,
+    "status": "BLOCKED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 696
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 321498182.98,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 795
+    }
+  },
+  {
+    "type": "DEBIT",
+    "balance": 102087476.89,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 4
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 674509561.04,
+    "status": "CLOSED",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 924
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 419723695.67,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 818
+    }
+  },
+  {
+    "type": "CREDIT",
+    "balance": 920603488.9,
+    "status": "OPEN",
+    "frozenAmount": 0,
+    "owner": {
+      "id": 464
+    }
+  }
+]
