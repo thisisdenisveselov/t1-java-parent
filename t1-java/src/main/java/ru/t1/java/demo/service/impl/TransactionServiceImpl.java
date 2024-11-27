@@ -43,7 +43,7 @@ public class TransactionServiceImpl implements TransactionService {
     private final AccountService accountService;
     private final AccountRepository accountRepository;
 
-    @PostConstruct
+    /*@PostConstruct
     void init() {
         List<Transaction> transactions = new ArrayList<>();
         try {
@@ -56,7 +56,7 @@ public class TransactionServiceImpl implements TransactionService {
                     transaction.setAccount(accountService.getAccount(transaction.getAccount().getId())));
             transactionRepository.saveAll(transactions);
         }
-    }
+    }*/
 
     @Override
 //    @LogExecution
@@ -146,5 +146,11 @@ public class TransactionServiceImpl implements TransactionService {
     @Transactional
     public void deleteTransaction(Long id) {
         transactionRepository.deleteById(id);
+    }
+
+    @Override
+    public boolean checkRejected(UUID accountId) {
+        Account account = accountService.getAccount(accountId);
+        return transactionRepository.existsByAccountAndStatus(account, TransactionStatus.REJECTED);
     }
 }

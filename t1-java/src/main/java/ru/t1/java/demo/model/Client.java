@@ -30,6 +30,9 @@ public class Client extends AbstractPersistable<Long> {
     @Column(name = "middle_name")
     private String middleName;
 
+    @Column(name = "blocked")
+    private Boolean blocked;
+
     @OneToMany(mappedBy = "owner")
     private List<Account> accounts;
 

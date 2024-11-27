@@ -1,18 +1,19 @@
 package ru.t1.java.demo.service.impl;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import ru.t1.java.demo.aop.LogDataSourceError;
 import ru.t1.java.demo.kafka.producer.ClientProducer;
+import ru.t1.java.demo.model.User;
 import ru.t1.java.demo.model.dto.ClientDto;
 import ru.t1.java.demo.exception.EntityNotFoundException;
 import ru.t1.java.demo.model.Client;
 import ru.t1.java.demo.repository.ClientRepository;
 import ru.t1.java.demo.service.ClientService;
+import ru.t1.java.demo.service.UserService;
 import ru.t1.java.demo.util.ClientMapper;
 
 import java.io.File;
@@ -30,8 +31,11 @@ public class ClientServiceImpl implements ClientService {
 
     private final ClientRepository repository;
     private final ClientProducer clientProducer;
+    private final UserService userService;
+    private final UserServiceImpl userServiceImpl;
+    private final ClientRepository clientRepository;
 
-    @PostConstruct
+    /*@PostConstruct
     void init() {
         List<Client> clients = new ArrayList<>();
         try {
@@ -41,7 +45,7 @@ public class ClientServiceImpl implements ClientService {
         }
         if (!clients.isEmpty())
             repository.saveAll(clients);
-    }
+    }*/
 
     @Override
 //    @LogExecution
@@ -76,8 +80,7 @@ public class ClientServiceImpl implements ClientService {
     public List<Client> registerClients(List<Client> clients) {
         List<Client> savedClients = new ArrayList<>();
         for (Client client : clients) {
-            Client saved = repository.save(client);
-            clientProducer.send(saved.getId());
+            Client saved = registerClient(client);
             savedClients.add(saved);
 //            savedClients.add(repository.save(client));
         }
@@ -88,8 +91,17 @@ public class ClientServiceImpl implements ClientService {
     @Override
     @Transactional
     public Client registerClient(Client client) {
+        UUID clientId = UUID.randomUUID();
+        client.setClientId(clientId);
+
         Client saved = repository.save(client);
         clientProducer.send(client.getId());
+
+        //connect User and Client
+        Long id = userServiceImpl.getCurrentUserId();
+        User user = User.builder().clientId(clientId).build();
+
+        userService.updateUser(id, user);
         return saved;
     }
     @Override
@@ -97,6 +109,17 @@ public class ClientServiceImpl implements ClientService {
         log.info("Clearing middle name");
         dtos.forEach(dto -> dto.setMiddleName(null));
         log.info("Done clearing middle name");
+    }
+
+    @Override
+    @Transactional
+    public Client updateClient(UUID clientId, Client client) {
+        Client updatedClient = getClient(clientId);
+
+        if (client.getBlocked() != null)
+            updatedClient.setBlocked(client.getBlocked());
+
+        return clientRepository.save(updatedClient);
     }
 
 }

@@ -28,4 +28,5 @@ public class ClientDto implements Serializable {
     private String lastName;
     @JsonProperty("middle_name")
     private String middleName;
+    private Boolean blocked;
 }

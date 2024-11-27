@@ -9,6 +9,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class CheckResponse {
+public class CheckBlacklistResponse {
     private Boolean blocked;
 }

@@ -36,7 +36,7 @@ public class AccountServiceImpl implements AccountService {
     private final AccountRepository accountRepository;
     private final ClientService clientService;
 
-    @PostConstruct
+    /*@PostConstruct
     void init() {
         List<Account> accounts = new ArrayList<>();
         try {
@@ -49,7 +49,7 @@ public class AccountServiceImpl implements AccountService {
                     account.setOwner(clientService.getClient(account.getOwner().getId())));
             accountRepository.saveAll(accounts);
         }
-    }
+    }*/
 
     @Override
 //    @LogExecution

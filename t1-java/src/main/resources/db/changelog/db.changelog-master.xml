@@ -15,12 +15,17 @@ http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
     </changeSet>
 
     <changeSet id="create" author="thisisdenisveselov">
-        <sqlFile encoding="utf8" path="/db/changelog/2024/11/01-01-changelog-01.sql"/>
+        <sqlFile encoding="utf8" path="db/changelog/2024/11/01-01-changelog.sql"/>
         <rollback/>
     </changeSet>
 
     <changeSet id="update-client-account-transaction" author="thisisdenisveselov">
-        <sqlFile encoding="utf8" path="/db/changelog/2024/11/14-01-changelog-01.sql"/>
+        <sqlFile encoding="utf8" path="db/changelog/2024/11/14-01-changelog.sql"/>
+        <rollback/>
+    </changeSet>
+
+    <changeSet id="create-users-role" author="thisisdenisveselov">
+        <sqlFile encoding="utf8" path="db/changelog/2024/11/22-01-changelog.sql"/>
         <rollback/>
     </changeSet>
 </databaseChangeLog>

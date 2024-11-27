@@ -31,9 +31,11 @@ public class Transaction {
     @Column(name = "timestamp", nullable = false, updatable = false)
     private Instant timestamp;
 
+    @Enumerated(EnumType.STRING)
     @Column(name = "status", nullable = false)
     private TransactionStatus status;
 
+    @Enumerated(EnumType.STRING)
     @Column(name = "operation_type", nullable = false)
     private OperationType operationType;
 

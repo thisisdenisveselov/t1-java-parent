@@ -3,7 +3,9 @@ package ru.t1.java.demo.controller;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import ru.t1.java.demo.aop.HandlingResult;
@@ -40,12 +42,16 @@ public class ClientController {
 //        }
     }
 
-    @GetMapping("/register")
+    @GetMapping("/admin")
+    @PreAuthorize("hasRole('ADMIN')")
+    public String adminAccess() {
+        return "Admin Board.";
+    }
+
+    @PostMapping("/register")
     public ResponseEntity<Client> register(@RequestBody ClientDto clientDto) {
         log.info("Registering client: {}", clientDto);
-        Client client = clientService.registerClient(
-                clientMapper.toEntityWithId(clientDto)
-        );
+        Client client = clientService.registerClient(ClientMapper.toEntity(clientDto));
 //        log.info("Client registered: {}", client.getId());
         return ResponseEntity.ok().body(client);
     }
