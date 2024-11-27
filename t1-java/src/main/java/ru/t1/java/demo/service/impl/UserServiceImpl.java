@@ -12,8 +12,6 @@ import ru.t1.java.demo.model.User;
 import ru.t1.java.demo.repository.UserRepository;
 import ru.t1.java.demo.service.UserService;
 
-import java.util.UUID;
-
 @Service
 @Slf4j
 @RequiredArgsConstructor
@@ -48,27 +46,4 @@ public class UserServiceImpl implements UserService {
         UserDetailsImpl userDetails = (UserDetailsImpl) authentication.getPrincipal();
         return userDetails.getId();
     }
-
-/*
-    @Override
-    public Account getAccount(UUID accountId) {
-        return accountRepository.findByAccountId(accountId)
-                .orElseThrow(() -> new EntityNotFoundException("Account not found with accountId: " + accountId));
-    }*/
-
-    /*@Override
-    @LogDataSourceError
-    @Transactional
-    public Account createAccount(Account account) {
-        Client owner = clientService.getClient(account.getOwner().getId());
-        account.setOwner(owner);
-        account.setStatus(AccountStatus.OPEN);
-        return accountRepository.save(account);
-    }*/
-
-    /*@Override
-    @LogDataSourceError
-    public void deleteAccount(Long id) {
-        accountRepository.deleteById(id);
-    }*/
 }

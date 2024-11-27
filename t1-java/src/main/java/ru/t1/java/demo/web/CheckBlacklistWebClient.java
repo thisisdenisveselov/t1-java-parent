@@ -1,7 +1,6 @@
 package ru.t1.java.demo.web;
 
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpHeaders;
 import org.springframework.stereotype.Component;
@@ -18,24 +17,13 @@ public class CheckBlacklistWebClient {
     private final WebClient webClient;
     private final JwtUtils jwtUtils;
 
-    @Value("${web.base-url}")
-    private String baseURL;
-
     @Value("${web.resources.blacklist-check}")
     private String resource;
-
-/*    @Value("${security.service-secret}")
-    private String serviceJwtSecret;*/
 
     public CheckBlacklistWebClient(WebClient webClient, JwtUtils jwtUtils) {
         this.webClient = webClient;
         this.jwtUtils = jwtUtils;
     }
-
-/*    @Autowired
-    public CheckBlacklistWebClient(WebClient.Builder webClientBuilder) {
-        this.webClient = webClientBuilder.baseUrl(baseURL).build();
-    }*/
 
     public CheckBlacklistResponse check(UUID clientId, UUID accountId) {
 

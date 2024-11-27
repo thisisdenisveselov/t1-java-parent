@@ -16,7 +16,6 @@ import ru.t1.java.demo.kafka.producer.TransactionAcceptProducer;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Client;
 import ru.t1.java.demo.model.Transaction;
-import ru.t1.java.demo.model.dto.CheckBlacklistResponse;
 import ru.t1.java.demo.model.dto.TransactionDto;
 import ru.t1.java.demo.model.enums.AccountStatus;
 import ru.t1.java.demo.model.enums.OperationType;
