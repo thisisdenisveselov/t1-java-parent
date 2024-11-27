@@ -9,12 +9,16 @@ spring:
   liquibase:
     enabled: true
     change-log: db/changelog/db.changelog-master.xml
+security:
+  #token: 5677ff89f5c1e9b2fc694e4b8898daf01fc253a30647e6b1f0b302384d87bcc1
+  token: tstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5h
+  service-secret: 5677ff89f5c1e9b2fc694e4b8898daf01fc253a30647e6b1f0b302384d87bcc1
+  expiration: 86400000
 
 logging:
   level:
     ROOT: INFO
-    ru.t1.java.demo.kafka.ru.t1.java.demo.kafka.consumer.AccountConsumer: DEBUG
-    #ru.t1.java.demo.controller.ClientController: DEBUG
+    ru.t1.java.demo.service.impl: DEBUG
 
 t1:
   scan-path: ru.t1.java.demo
@@ -39,3 +43,18 @@ t1:
       transaction_result: t1_demo_transaction_result
     listener:
       poll-timeout: 1000
+    transactions:
+      rejected-limit: 3
+
+integration:
+  url: http://localhost:1398
+  resource: /bsc-wire-mock/api/client/check
+  retry-count: 3
+  retry-backoff: 1000
+
+web:
+  base-url: http://localhost:8082
+  resources:
+    blacklist-check: /blacklist/check
+ # retry-count: 3
+ # retry-backoff: 1000

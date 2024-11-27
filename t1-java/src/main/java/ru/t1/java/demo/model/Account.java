@@ -33,6 +33,7 @@ public class Account {
     @Column(name = "balance")
     private BigDecimal balance;
 
+    @Enumerated(EnumType.STRING)
     @Column(name = "status", nullable = false)
     private AccountStatus status;
 

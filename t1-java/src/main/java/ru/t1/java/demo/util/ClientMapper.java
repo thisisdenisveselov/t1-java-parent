@@ -10,15 +10,16 @@ import ru.t1.java.demo.model.Client;
 public class ClientMapper {
 
     public static Client toEntity(ClientDto dto) {
-        if (dto.getMiddleName() == null) {
+      /*  if (dto.getMiddleName() == null) {
 //            throw new NullPointerException();
-        }
+        }*/
         return Client.builder()
                 .id(dto.getId())
                 .clientId(dto.getClientId())
                 .firstName(dto.getFirstName())
                 .lastName(dto.getLastName())
                 .middleName(dto.getMiddleName())
+                .blocked(dto.getBlocked())
                 .build();
     }
 
@@ -29,6 +30,7 @@ public class ClientMapper {
                 .firstName(entity.getFirstName())
                 .lastName(entity.getLastName())
                 .middleName(entity.getMiddleName())
+                .blocked(entity.getBlocked())
                 .build();
     }
 

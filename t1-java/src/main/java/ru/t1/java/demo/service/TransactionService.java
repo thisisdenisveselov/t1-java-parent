@@ -2,6 +2,7 @@ package ru.t1.java.demo.service;
 
 import ru.t1.java.demo.aop.LogDataSourceError;
 import ru.t1.java.demo.exception.AccountNotOpenException;
+import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Transaction;
 
 import java.io.IOException;
@@ -17,4 +18,5 @@ public interface TransactionService {
     Transaction updateTransaction(Long id, Transaction transaction);
     Transaction updateTransaction(UUID transactionId, Transaction transaction);
     void deleteTransaction(Long id);
+    boolean checkRejected(UUID accountId);
 }

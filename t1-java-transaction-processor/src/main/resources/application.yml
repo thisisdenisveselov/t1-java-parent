@@ -4,7 +4,8 @@ server:
 spring:
   application:
     name: t1-transaction-processor
-
+security:
+  jwt-secret: tstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5h
 logging:
   level:
     ROOT: INFO
