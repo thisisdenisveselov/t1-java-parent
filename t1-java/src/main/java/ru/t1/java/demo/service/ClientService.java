@@ -18,4 +18,6 @@ public interface ClientService {
     Client registerClient(Client client);
 
     void clearMiddleName(List<ClientDto> dtos);
+
+    Client updateClient(UUID clientId, Client updatedClient);
 }
