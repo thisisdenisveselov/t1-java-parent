@@ -62,9 +62,9 @@ public class TransactionProcessingService {
         clientService.updateClient(client.getClientId(), updatedClient);
 
         if (clientIsBlocked) {
-            changeAccountStatus(account.getAccountId(), AccountStatus.BLOCKED);
-            alterAccountBalance(transaction, account);
-            changeTransactionStatus(transaction.getTransactionId(), TransactionStatus.REJECTED);
+            accountService.changeAccountStatus(account.getAccountId(), AccountStatus.BLOCKED);
+            accountService.alterAccountBalance(transaction, account);
+            transactionService.changeTransactionStatus(transaction.getTransactionId(), TransactionStatus.REJECTED);
         } else {
             sendTransactionAcceptMessage(client, account, transaction);
         }
@@ -76,35 +76,16 @@ public class TransactionProcessingService {
         transactions.add(transaction);
 
         if (transactions.size() > rejectedTransactionsLimit) {
-            changeAccountStatus(account.getAccountId(), AccountStatus.ARRESTED);
+            accountService.changeAccountStatus(account.getAccountId(), AccountStatus.ARRESTED);
             for (Transaction t : transactions) {
                 log.info("Transaction processing: rejecting transaction: {}", t.getId());
-                alterAccountBalance(t, account);
-                changeTransactionStatus(t.getTransactionId(), TransactionStatus.REJECTED);
+                accountService.alterAccountBalance(t, account);
+                transactionService.changeTransactionStatus(t.getTransactionId(), TransactionStatus.REJECTED);
             }
             transactionCache.remove(account.getAccountId());
         } else {
             sendTransactionAcceptMessage(client, account, transaction);
         }
-    }
-
-    private void changeTransactionStatus(UUID transactionId, TransactionStatus newStatus) {
-        Transaction updatedTransaction = Transaction.builder().status(newStatus).build();
-        transactionService.updateTransaction(transactionId, updatedTransaction);
-    }
-
-    private void changeAccountStatus(UUID accountId, AccountStatus newStatus) {
-        Account updatedAccount = Account.builder().status(newStatus).build();
-        accountService.updateAccount(accountId, updatedAccount);
-    }
-
-    private void alterAccountBalance(Transaction transaction, Account account) {
-        if (transaction.getOperationType() == OperationType.INCOMING)
-            accountService.decreaseBalance(account.getAccountId(), transaction.getAmount());
-        else if (transaction.getOperationType() == OperationType.OUTGOING)
-            accountService.increaseBalance(account.getAccountId(), transaction.getAmount());
-        else
-            throw new IllegalOperationTypeException("Unknown operation type: " + transaction.getOperationType());
     }
 
     private void sendTransactionAcceptMessage(Client client, Account account, Transaction transaction) {
