@@ -1,9 +1,11 @@
 package ru.t1.java.demo.service;
 
+import org.springframework.transaction.annotation.Transactional;
 import ru.t1.java.demo.aop.LogDataSourceError;
 import ru.t1.java.demo.exception.AccountNotOpenException;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Transaction;
+import ru.t1.java.demo.model.enums.TransactionStatus;
 
 import java.io.IOException;
 import java.util.List;
@@ -19,4 +21,5 @@ public interface TransactionService {
     Transaction updateTransaction(UUID transactionId, Transaction transaction);
     void deleteTransaction(Long id);
     boolean checkRejected(UUID accountId);
+    void changeTransactionStatus(UUID transactionId, TransactionStatus newStatus);
 }

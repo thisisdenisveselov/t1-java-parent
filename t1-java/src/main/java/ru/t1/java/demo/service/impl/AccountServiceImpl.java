@@ -1,13 +1,14 @@
 package ru.t1.java.demo.service.impl;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.DependsOn;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import ru.t1.java.demo.aop.LogDataSourceError;
+import ru.t1.java.demo.exception.IllegalOperationTypeException;
+import ru.t1.java.demo.model.Transaction;
 import ru.t1.java.demo.model.dto.AccountDto;
 import ru.t1.java.demo.exception.EntityNotFoundException;
 import ru.t1.java.demo.model.Account;
@@ -22,7 +23,6 @@ import ru.t1.java.demo.util.AccountMapper;
 import java.io.File;
 import java.io.IOException;
 import java.math.BigDecimal;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.UUID;
@@ -75,7 +75,7 @@ public class AccountServiceImpl implements AccountService {
     @LogDataSourceError
     public Account getAccount(Long id) {
         return accountRepository.findById(id).
-                orElseThrow(() -> new EntityNotFoundException(String.format("%s with id = %d not found", "Account", id)));
+                orElseThrow(() -> new EntityNotFoundException("Account not found with id: " + id));
     }
 
     @Override
@@ -130,6 +130,24 @@ public class AccountServiceImpl implements AccountService {
         accountRepository.deleteById(id);
     }
 
+    @Transactional
+    @Override
+    public void changeAccountStatus(UUID accountId, AccountStatus newStatus) {
+        Account updatedAccount = Account.builder().status(newStatus).build();
+        updateAccount(accountId, updatedAccount);
+    }
+
+    @Transactional
+    @Override
+    public void alterAccountBalance(Transaction transaction, Account account) {
+        if (transaction.getOperationType() == OperationType.INCOMING)
+            decreaseBalance(account.getAccountId(), transaction.getAmount());
+        else if (transaction.getOperationType() == OperationType.OUTGOING)
+            increaseBalance(account.getAccountId(), transaction.getAmount());
+        else
+            throw new IllegalOperationTypeException("Unknown operation type: " + transaction.getOperationType());
+    }
+
     @Override
     @Transactional
     public void increaseBalance(UUID accountId, BigDecimal amount) {
@@ -155,10 +173,6 @@ public class AccountServiceImpl implements AccountService {
         }
 
         BigDecimal newBalance = account.getBalance().subtract(amount);
-
-        /*if (newBalance.compareTo(BigDecimal.ZERO) < 0) {
-            throw new IllegalArgumentException("Insufficient funds. Current balance: " + account.getBalance());
-        }*/
 
         account.setBalance(newBalance);
         accountRepository.save(account);
