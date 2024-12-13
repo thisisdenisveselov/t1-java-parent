@@ -2,7 +2,6 @@ package ru.t1.java.demo.service.impl;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
-import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.DependsOn;
@@ -28,7 +27,6 @@ import ru.t1.java.demo.util.TransactionMapper;
 import java.io.File;
 import java.io.IOException;
 import java.time.Instant;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.UUID;
@@ -86,7 +84,7 @@ public class TransactionServiceImpl implements TransactionService {
     @LogDataSourceError
     public Transaction getTransaction(Long id) {
         return transactionRepository.findById(id).
-                orElseThrow(() -> new EntityNotFoundException(String.format("%s with id = %d not found", "Transaction", id)));
+                orElseThrow(() -> new EntityNotFoundException("Transaction not found with id: " + id));
     }
 
     @LogDataSourceError
@@ -152,5 +150,12 @@ public class TransactionServiceImpl implements TransactionService {
     public boolean checkRejected(UUID accountId) {
         Account account = accountService.getAccount(accountId);
         return transactionRepository.existsByAccountAndStatus(account, TransactionStatus.REJECTED);
+    }
+
+    @Transactional
+    @Override
+    public void changeTransactionStatus(UUID transactionId, TransactionStatus newStatus) {
+        Transaction updatedTransaction = Transaction.builder().status(newStatus).build();
+        updateTransaction(transactionId, updatedTransaction);
     }
 }

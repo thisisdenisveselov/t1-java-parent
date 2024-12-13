@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 import ru.t1.java.demo.kafka.message.TransactionAcceptMessage;
 
 @Slf4j
-@Component
+@Component("transactionAcceptProducer")
 public class TransactionAcceptProducer {
 
     private final KafkaTemplate<String, TransactionAcceptMessage> template;

@@ -1,7 +1,9 @@
 package ru.t1.java.demo.service;
 
-import jakarta.transaction.Transactional;
+import org.springframework.transaction.annotation.Transactional;
 import ru.t1.java.demo.model.Account;
+import ru.t1.java.demo.model.Transaction;
+import ru.t1.java.demo.model.enums.AccountStatus;
 import ru.t1.java.demo.model.enums.OperationType;
 
 import java.io.IOException;
@@ -18,6 +20,8 @@ public interface AccountService {
     Account updateAccount(Long id, Account account);
     Account updateAccount(UUID accountId, Account account);
     void deleteAccount(Long id);
+    void changeAccountStatus(UUID accountId, AccountStatus newStatus);
+    void alterAccountBalance(Transaction transaction, Account account);
     void increaseBalance(UUID accountId, BigDecimal amount);
     void decreaseBalance(UUID accountId, BigDecimal amount);
 }
